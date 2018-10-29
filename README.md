@@ -1,6 +1,14 @@
 ## Greene Strategy and Analytics
 
-## Dragon Paint
+### AI Strategy, Policy and Risk
+Advising government agencies and industry internationally on AI and AV strategy, policy and risk. 
+
+[Potholes, Rats and Criminals: A Framework for AI Ethical Risk](https://datasmart.ash.harvard.edu/news/article/potholes-rats-and-criminals), Harvard Kennedy School Ash Center for Democratic Governance and Innovation
+
+
+
+
+### Dragon Paint
 Expressive augmentation and GANs for generating style consistent cartoons characters and group variation from extremely small original data sets.
 
 [DragonPaint: Rule Based Bootstrapping for Small Data with an Application to Cartoon Coloring](https://www.papis.io/proceedings)
@@ -8,8 +16,6 @@ Expressive augmentation and GANs for generating style consistent cartoons charac
 [An Infinite Parade of Giraffes: Expressive Augmentation and Complexity Layers for Cartoon Drawing](https://www.kgretchengreene.com/) (need arxiv link)
 
 [GANs and Gaussian Filters for Design Propagation and Variation Across Groups of Cartoon Characters from a Single Example](https://www.kgretchengreene.com/) (need arxiv link)
-
-[Awesome art!](https://www.kgretchengreene.com/)
 
 ![Image](./FishC.png) (string(s) of small images)
 
