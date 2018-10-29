@@ -25,10 +25,15 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 [Link](https://www.kgretchengreene.com/)
-![Image](Fish.png)
 ```
 ![Image](./FishC.png)
-How do I do this? # Header1? ## Header2? ### Header3
+How do I do this? 
+# Header1? 
+## Header2? 
+### Header3?
+- b1
+- b2
+**hog** _wild_ 'forever'
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
