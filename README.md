@@ -28,13 +28,13 @@ MIT Media Lab/Harvard Berkman Center AI and Governance Assembly project, [EqualA
 - "How Machine Vision Fails: Adversarial Attacks, AV Accidents and Other Problems", REWORK Deep Learning for Robotics and AI in Industrial Automation Summits", SF, CA, 2018
 
 ### Computer Vision, AI, ML and AV Projects for Cambridge Startups
-- AV decision making AI 
+- Decision making AI for autonomous vehicles, design, implementation and on car testing
 
 - Machine learning for drug delivery system 
 
 - Computer vision for QR codes in wearables 
 
-- Testing and documenting software for computer vision tools
+- Computer vision software testing and documentation
 
 ### Dragon Paint
 Expressive augmentation and GANs for generating style consistent cartoons characters and group variation from extremely small original data sets.
@@ -48,9 +48,6 @@ Expressive augmentation and GANs for generating style consistent cartoons charac
 ![Image](./FishC.png) (string(s) of small images)
 
 
-
-
-
 ### Bio
 Gretchen Greene, founder of Greene Strategy and Analytics and affiliate AI policy researcher at MIT Media Lab and Harvard Berkman Klein Center for Internet and Society, leverages an extremely broad multi-industry, multi-discipline background to find AI, ML and computer vision strategy, policy and technical solutions for clients ranging from Cambridge tech startups to international government agencies. Greene's work on AI and governance with MIT Media Lab, Harvard Berkman Klein Center, Harvard Law School, Harvard Kennedy School and private government clients has included developing best practices for AI and ethics in government, universities and industry and advising local and regional governments internationally on AI and AV strategy, risk and policy. Greene is a computer vision scientist, lawyer, and autonomous car engineer with CPhil and MS degrees in math from UCLA, a JD from Yale, peer reviewed publications in machine learning, science and policy journals and a license to practice law in California and Massachusetts. Greene has been interviewed by the Economist, Forbes China, and the BBC.
 
@@ -58,40 +55,11 @@ Gretchen Greene, founder of Greene Strategy and Analytics and affiliate AI polic
 
 
 
-# Header1? 
-## Header2? 
-### Header3?
-- b1
-- b2
-**hog** _wild_ 'forever'
-[Awesome art!](https://www.kgretchengreene.com/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kggreene/kggreene.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-You can use the [editor on GitHub](https://github.com/kggreene/kggreene.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 ```markdown
 Syntax highlighted code block
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
