@@ -1,7 +1,4 @@
-# AI, computer vision and machine learning. 
-# Technical, policy and strategy solutions.
-
-### International AI and AV strategy, policy and risk
+## International AI and AV strategy, policy and risk
 AI and governance work with MIT Media Lab, Harvard Berkman Klein Center, Harvard Law School, Harvard Kennedy School and private government clients including developing best practices for AI and ethics in government, universities and industry and advising local and regional governments internationally on AI and AV strategy, risk and policy. 
 
 AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.edu/people/ggreene/overview/) and [Harvard Berkman Klein Center](https://cyber.harvard.edu/people/gretchen-greene).  
@@ -18,7 +15,7 @@ AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.ed
 
 - BKC, MIT, and Princeton Workshop on AI and Ethics in Industry, 2018
 
-### Machine learning, computer vision, artificial intelligence and autonomous vehicles
+## Machine learning, computer vision, artificial intelligence and autonomous vehicles
 #### Dragon Paint: GANs, art and extreme data augmentation
 An ongoing project exploring the limits of data augmentation and art generation, using expressive augmentation and GANs for generating style consistent cartoons characters and group variation from extremely small original data sets.
 
