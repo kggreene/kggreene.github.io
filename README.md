@@ -3,6 +3,8 @@
 
 
 
+
+
 ### Dragon Paint
 Expressive augmentation and GANs for generating style consistent cartoons characters and group variation from extremely small original data sets.
 
