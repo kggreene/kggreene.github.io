@@ -24,7 +24,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-[Link](https://www.kgretchengreene.com/)
 ```
 ![Image](./FishC.png)
 How do I do this? 
@@ -34,6 +33,7 @@ How do I do this?
 - b1
 - b2
 **hog** _wild_ 'forever'
+[Link](https://www.kgretchengreene.com/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
