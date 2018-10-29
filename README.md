@@ -2,7 +2,7 @@
 #### AI, computer vision and machine learning. Technical, policy and strategy solutions.
 
 
-### AI Strategy, Policy and Risk
+### AI and AV Strategy, Policy and Risk
 AI and governance work with MIT Media Lab, Harvard Berkman Klein Center, Harvard Law School, Harvard Kennedy School and private government clients including developing best practices for AI and ethics in government, universities and industry and advising local and regional governments internationally on AI and AV strategy, risk and policy. 
 
 AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.edu/people/ggreene/overview/) and [Harvard Berkman Klein Center](https://cyber.harvard.edu/people/gretchen-greene).  
