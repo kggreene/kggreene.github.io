@@ -1,6 +1,6 @@
 ## Greene Strategy and Analytics
 
-Hey there
+
 
 
 You can use the [editor on GitHub](https://github.com/kggreene/kggreene.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -8,8 +8,8 @@ You can use the [editor on GitHub](https://github.com/kggreene/kggreene.github.i
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Dragon Paint
-
-### Dragon paint
+Extreme augmentation and GANs for generating style consistent cartoons characters from as few as one original drawing.
+![_DragonPaint: rule based bootstrapping for small data with an application to cartoon coloring_](https://www.papis.io/proceedings)
 
 ### An infinite parade of giraffes
 
