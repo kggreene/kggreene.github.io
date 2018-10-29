@@ -28,7 +28,7 @@ MIT Media Lab/Harvard Berkman Center AI and Governance Assembly project, [EqualA
 
 - "How machine vision fails: Adversarial attacks, AV accidents and other problems", REWORK Deep Learning for Robotics and AI in Industrial Automation Summits", SF, CA, 2018
 
-### Computer Vision, AI, ML and AV Projects for Cambridge Startups
+### Computer Vision, AI, ML and AV Projects for Cambridge, MA Startups
 - Decision making AI for autonomous vehicles - design, implementation and on car testing
 
 - Computer vision for QR codes in wearables 
