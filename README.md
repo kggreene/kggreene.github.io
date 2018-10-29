@@ -1,16 +1,8 @@
 ## Greene Strategy and Analytics
 
-
-
-
-You can use the [editor on GitHub](https://github.com/kggreene/kggreene.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
 ## Dragon Paint
 Extreme augmentation and GANs for generating style consistent cartoons characters from a single original drawing.
-![_DragonPaint: rule based bootstrapping for small data with an application to cartoon coloring_](https://www.papis.io/proceedings)
+![DragonPaint: rule based bootstrapping for small data with an application to cartoon coloring](https://www.papis.io/proceedings)
 _An infinite parade of giraffes_
 _Schools of fish_
 
@@ -30,6 +22,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kggreene/kggreene.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You can use the [editor on GitHub](https://github.com/kggreene/kggreene.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Support or Contact
 
