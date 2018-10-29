@@ -1,7 +1,7 @@
 ## Greene Strategy and Analytics
 AI, computer vision and machine learning.
 
-Technical , policy and strategy solutions.
+Technical, policy and strategy solutions.
 
 ### Dragon Paint
 Expressive augmentation and GANs for generating style consistent cartoons characters and group variation from extremely small original data sets.
