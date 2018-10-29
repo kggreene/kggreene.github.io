@@ -16,18 +16,27 @@ Advising government agencies and industry internationally on AI and AV strategy,
 
 - [Potholes, Rats and Criminals: A Framework for AI Ethical Risk](https://datasmart.ash.harvard.edu/news/article/potholes-rats-and-criminals), Harvard Kennedy School
 
-- "AV Scenario Issue Spotting Workshop", primary author and researcher; ran workshop at AG Tech Forum on AI, national convening of state attorneys general at Harvard Law School
+- "AV Scenario Issue Spotting Workshop", primary author and researcher; ran workshop at AG Tech Forum on AI, national convening of state attorneys general at Harvard Law School, 2018
 
-- "When Algorithms are Against the Law: Lessons from Case Law and the Constitution for City CDOs", presentation to Civics Analytics Network's (CAN's), Harvard Kennedy School 
+- "When Algorithms are Against the Law: Lessons from Case Law and the Constitution for City CDOs", presentation to Civics Analytics Network's (CAN's), national convening of large city CDOs, Harvard Kennedy School, 2018 
 
 ### Adversarial Attacks and Facial Recognition
-### MIT Media Lab/Harvard Berkman Center AI and Governance Assembly project, [EqualAIs](http://equalais.media.mit.edu/). Team developed facial recognition adversarial attack prototype and open source resources.
+MIT Media Lab/Harvard Berkman Center AI and Governance Assembly project, [EqualAIs](http://equalais.media.mit.edu/). The team developed a white box substitution model facial recognition adversarial attack prototype, successful against the major APIs, filed a FOIA with partners ACLU and a private law firm, presented at numerous conferences and published a collection of open source code and resources on facial recognition and adversarial attacks.
 
 - "EqualAIs: Facial Recognition Adversarial Attacks and Policy", Google Brain, Cambridge, MA, 2018
 
 - "Facial Recognition: Adversarial Attacks, Policy and Choice", PAPIs Global, Boston, MA, 2018"
 
 - "How Machine Vision Fails: Adversarial Attacks, AV Accidents and Other Problems", REWORK Deep Learning for Robotics and AI in Industrial Automation Summits", SF, CA, 2018
+
+
+
+
+# Bio
+An AI policy researcher, machine learning engineer and lawyer, Gretchen Greene works with Cambridge startups on everything from autonomous vehicles to QR codes in wearables and advises government leaders on AI and AV use and policy. Greene has been a mathematician for the U.S. Departments of Defense, Energy and Homeland Security, has published in science, policy and machine learning journals, and has represented the United States in federal court. Greene is an AI and Governance Research Affiliate at MIT Media Lab/Harvard Law School Berkman Klein Center. She has a CPhil and MS in math from UCLA and a JD from Yale.
+
+
+
 
 # Header1? 
 ## Header2? 
