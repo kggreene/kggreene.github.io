@@ -20,7 +20,7 @@ AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.ed
 - BKC, MIT, and Princeton Workshop on AI and Ethics in Industry, 2018
 
 ### Facial Recognition Adversarial Attacks
-MIT Media Lab/Harvard Berkman Center AI and Governance Assembly project, [EqualAIs](http://equalais.media.mit.edu/). The team developed a white box, substitution model facial recognition adversarial attack prototype, successful against the major APIs, filed a FOIA with partners ACLU and a private law firm, presented at numerous conferences and published a collection of open source code and resources on facial recognition and adversarial attacks.
+MIT Media Lab/Harvard Berkman Center AI and Governance Assembly project, [EqualAIs](http://equalais.media.mit.edu/). Our team developed a white box, substitution model facial recognition adversarial attack prototype, successful against the major APIs, filed a FOIA with partners ACLU and a private law firm, presented at numerous conferences and published a collection of open source code and resources on facial recognition and adversarial attacks.
 
 - "EqualAIs: Facial Recognition Adversarial Attacks and Policy", Google Brain, Cambridge, MA, 2018
 
@@ -29,22 +29,25 @@ MIT Media Lab/Harvard Berkman Center AI and Governance Assembly project, [EqualA
 - "How Machine Vision Fails: Adversarial Attacks, AV Accidents and Other Problems", REWORK Deep Learning for Robotics and AI in Industrial Automation Summits", SF, CA, 2018
 
 ### Computer Vision, AI, ML and AV Projects for Cambridge Startups
-- Decision making AI for autonomous vehicles, design, implementation and on car testing
-
-- Machine learning for drug delivery system 
+- Decision making AI for autonomous vehicles - design, implementation and on car testing
 
 - Computer vision for QR codes in wearables 
 
-- Computer vision software testing and documentation
+- Machine learning for drug delivery system 
+
+- Computer vision tools testing and documentation
+K. Gretchen Greene. Dragonpaint: Rule based bootstrapping for small data with an application to
+cartoon coloring. In Proceedings of the Fourth International Conference on Predictive Applications
+and APIs, volume 82, pages 1–9, Boston, MA, USA, 2018. PMLR.
 
 ### Dragon Paint
 Expressive augmentation and GANs for generating style consistent cartoons characters and group variation from extremely small original data sets.
 
-- [DragonPaint: Rule Based Bootstrapping for Small Data with an Application to Cartoon Coloring](https://www.papis.io/proceedings)
+- [DragonPaint: Rule Based Bootstrapping for Small Data with an Application to Cartoon Coloring. In Proceedings of the Fourth International Conference on Predictive Applications and APIs, volume 82, pages 1-9, Boston, MA, 2017](https://www.papis.io/proceedings)
 
-- [An Infinite Parade of Giraffes: Expressive Augmentation and Complexity Layers for Cartoon Drawing](https://www.kgretchengreene.com/) (need arxiv link)
+- "An Infinite Parade of Giraffes: Expressive Augmentation and Complexity Layers for Cartoon Drawing" (under review), PAPIs 2018
 
-- [GANs and Gaussian Filters for Design Propagation and Variation Across Groups of Cartoon Characters from a Single Example](https://www.kgretchengreene.com/) (need arxiv link)
+- "GANs and Gaussian Filters for Design Propagation and Variation Across Groups of Cartoon Characters from a Single Example" (under review)
 
 ![Image](./FishC.png) (string(s) of small images)
 
