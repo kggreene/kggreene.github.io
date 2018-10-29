@@ -33,7 +33,7 @@ How do I do this?
 - b1
 - b2
 **hog** _wild_ 'forever'
-[Link](https://www.kgretchengreene.com/)
+[Awesome art!](https://www.kgretchengreene.com/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
