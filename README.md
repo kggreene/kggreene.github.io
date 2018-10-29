@@ -14,7 +14,7 @@ Advising government agencies and industry internationally on AI and AV strategy,
 
 - BC AI Governance Joint Convening. Initiated and facilitated cross agency collaboration on developing AI best practices across British Columbia, Canada
 
-- [Potholes, Rats and Criminals: A Framework for AI Ethical Risk](https://datasmart.ash.harvard.edu/news/article/potholes-rats-and-criminals), Harvard Kennedy School
+- [Potholes, Rats and Criminals: A Framework for AI Ethical Risk](https://datasmart.ash.harvard.edu/news/article/potholes-rats-and-criminals), Data-Smart City Solutions (read in ~8,000 cities each month), Harvard Kennedy School
 
 - "AV Scenario Issue Spotting Workshop", primary author and researcher; ran workshop at AG Tech Forum on AI, national convening of state attorneys general at Harvard Law School, 2018
 
@@ -29,11 +29,9 @@ MIT Media Lab/Harvard Berkman Center AI and Governance Assembly project, [EqualA
 
 - "How Machine Vision Fails: Adversarial Attacks, AV Accidents and Other Problems", REWORK Deep Learning for Robotics and AI in Industrial Automation Summits", SF, CA, 2018
 
+### Bio
+Gretchen Greene, founder of Greene Strategy and Analytics and affiliate AI policy researcher at MIT Media Lab and Harvard Berkman Klein Center for Internet and Society, leverages an extremely broad multi-industry, multi-discipline background to find AI, ML and computer vision strategy, policy and technical solutions for clients ranging from Cambridge tech startups to international government agencies. Greene's work on AI and governance with MIT Media Lab, Harvard Berkman Klein Center, Harvard Law School, Harvard Kennedy School and private government clients has included developing best practices for AI and ethics in government, universities and industry and advising local and regional governments internationally on AI and AV strategy, risk and policy. Greene is a computer vision scientist, lawyer, and autonomous car engineer with CPhil and MS degrees in math from UCLA, a JD from Yale, peer reviewed publications in machine learning, science and policy journals and a license to practice law in California and Massachusetts. Greene has been interviewed by the Economist, Forbes China, and the BBC.
 
-
-
-# Bio
-An AI policy researcher, machine learning engineer and lawyer, Gretchen Greene works with Cambridge startups on everything from autonomous vehicles to QR codes in wearables and advises government leaders on AI and AV use and policy. Greene has been a mathematician for the U.S. Departments of Defense, Energy and Homeland Security, has published in science, policy and machine learning journals, and has represented the United States in federal court. Greene is an AI and Governance Research Affiliate at MIT Media Lab/Harvard Law School Berkman Klein Center. She has a CPhil and MS in math from UCLA and a JD from Yale.
 
 
 
