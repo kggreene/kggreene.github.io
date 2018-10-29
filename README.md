@@ -12,7 +12,7 @@ AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.ed
 
 - "AV scenario issue spotting workshop", primary author and researcher; ran workshop at AG Tech Forum on AI, national convening of state attorneys general at Harvard Law School, 2018
 
-- "When algorithms are against the law: lessons from case law and the constitution for city CDOs", presentation to Civics Analytics Network's (CAN's), national convening of large city CDOs, Harvard Kennedy School, 2018 
+- "When algorithms are against the law: lessons from case law and the Constitution for city CDOs", presentation to Civics Analytics Network's (CAN's), national convening of large city CDOs, Harvard Kennedy School, 2018 
 
 - Founding member of [Techtopia](http://techtopia.harvard.edu/), Harvard initiative on ethics and governance of emerging digital technologies
 
