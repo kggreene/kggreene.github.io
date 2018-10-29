@@ -28,6 +28,7 @@ Syntax highlighted code block
 ![Image](Fish.png)
 ```
 ![Image](./FishC.png)
+How do I do this? # Header1? ## Header2? ### Header3
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
