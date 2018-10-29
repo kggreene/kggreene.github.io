@@ -3,7 +3,9 @@
 
 
 ### AI Strategy, Policy and Risk
-Advising companies, universities and government agencies internationally on AI and AV strategy, policy and risk. AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.edu/people/ggreene/overview/) and [Harvard Berkman Klein Center](https://cyber.harvard.edu/people/gretchen-greene).  
+Work on AI and governance with MIT Media Lab, Harvard Berkman Klein Center, Harvard Law School, Harvard Kennedy School and private government clients has included developing best practices for AI and ethics in government, universities and industry and advising local and regional governments internationally on AI and AV strategy, risk and policy. 
+
+AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.edu/people/ggreene/overview/) and [Harvard Berkman Klein Center](https://cyber.harvard.edu/people/gretchen-greene).  
 
 - BC AI Governance Joint Convening. Initiated and facilitated cross agency collaboration on developing AI best practices across British Columbia, Canada
 
