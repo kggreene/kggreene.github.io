@@ -16,7 +16,7 @@ AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.ed
 - BKC, MIT, and Princeton Workshop on AI and Ethics in Industry, 2018
 
 ## Machine learning, computer vision, artificial intelligence and autonomous vehicles
-#### Dragon Paint: GANs, art and extreme data augmentation
+### Dragon Paint: GANs, art and extreme data augmentation
 An ongoing project exploring the limits of data augmentation and art generation, using expressive augmentation and GANs for generating style consistent cartoons characters and group variation from extremely small original data sets.
 
 - [DragonPaint: Rule based bootstrapping for small data with an application to cartoon coloring. In Proceedings of the Fourth International Conference on Predictive Applications and APIs, volume 82, pages 1-9, Boston, MA, 2017](https://www.papis.io/proceedings)
@@ -25,7 +25,7 @@ An ongoing project exploring the limits of data augmentation and art generation,
 
 - "GANs and Gaussian Filters for Design Propagation and Variation Across Groups of Cartoon Characters from a Single Example" (under review)
 
-#### EqualAIs: Facial recognition adversarial attacks
+### EqualAIs: Facial recognition adversarial attacks
 MIT Media Lab/Harvard Berkman Center AI and Governance Assembly project, [EqualAIs](http://equalais.media.mit.edu/). Our team developed a white box, substitution model facial recognition adversarial attack prototype, successful against the major APIs, filed a FOIA with partners ACLU and a private law firm, presented at numerous conferences and published a collection of open source code and resources on facial recognition and adversarial attacks.
 
 - "EqualAIs: Facial recognition adversarial attacks and policy", Google Brain, Cambridge, MA, 2018
@@ -34,7 +34,7 @@ MIT Media Lab/Harvard Berkman Center AI and Governance Assembly project, [EqualA
 
 - "How machine vision fails: Adversarial attacks, AV accidents and other problems", REWORK Deep Learning for Robotics and AI in Industrial Automation Summits", SF, CA, 2018
 
-#### Other recent work
+### Other recent work
 - Decision making AI for autonomous vehicles 
 
 - Computer vision for QR codes in wearables 
@@ -43,5 +43,5 @@ MIT Media Lab/Harvard Berkman Center AI and Governance Assembly project, [EqualA
 
 - Computer vision tools testing and documentation
 
-#### Bio
+### Bio
 K. G. Greene is an AI and governance affiliate researcher at MIT Media Lab and Harvard Berkman Klein Center for Internet and Society. Greene's work on AI and governance has included developing best practices for AI and ethics in government, universities and industry and advising local and regional governments internationally on government AI strategy, risk and policy. A Yale trained lawyer, computer vision scientist and former U.S. national lab mathematician, Greene has written decision making algorithms for autonomous car navigation, terrorist tracking and Hollywood animation. Greene has been interviewed by the Economist and Forbes China and has published in machine learning, policy and science journals.
