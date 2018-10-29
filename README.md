@@ -3,7 +3,9 @@
 ## Dragon Paint
 Extreme augmentation and GANs for generating style consistent cartoons characters from a single original drawing.
 ![DragonPaint: rule based bootstrapping for small data with an application to cartoon coloring](https://www.papis.io/proceedings)
+
 _An infinite parade of giraffes_
+
 _Schools of fish_
 
 ![Image](./FishC.png)
