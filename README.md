@@ -1,5 +1,5 @@
 ## Greene Strategy and Analytics
-# AI, computer vision and machine learning. Technical, policy and strategy solutions.
+## AI, computer vision and machine learning. Technical, policy and strategy solutions.
 
 
 ## Government AI and AV strategy, policy and risk
