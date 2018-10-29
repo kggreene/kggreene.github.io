@@ -7,7 +7,6 @@ You can use the [editor on GitHub](https://github.com/kggreene/kggreene.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Image](./FishC.png)
 
 ## Dragon Paint
 Extreme augmentation and GANs for generating style consistent cartoons characters from a single original drawing.
@@ -15,6 +14,7 @@ Extreme augmentation and GANs for generating style consistent cartoons character
 _An infinite parade of giraffes_
 _Schools of fish_
 
+![Image](./FishC.png)
 
 How do I do this? 
 # Header1? 
