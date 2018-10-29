@@ -1,13 +1,3 @@
-## Greene Strategy and Analytics
-
-### AI Strategy, Policy and Risk
-Advising government agencies and industry internationally on AI and AV strategy, policy and risk. 
-
-[Potholes, Rats and Criminals: A Framework for AI Ethical Risk](https://datasmart.ash.harvard.edu/news/article/potholes-rats-and-criminals), Harvard Kennedy School Ash Center for Democratic Governance and Innovation
-
-
-
-
 ### Dragon Paint
 Expressive augmentation and GANs for generating style consistent cartoons characters and group variation from extremely small original data sets.
 
@@ -18,6 +8,23 @@ Expressive augmentation and GANs for generating style consistent cartoons charac
 [GANs and Gaussian Filters for Design Propagation and Variation Across Groups of Cartoon Characters from a Single Example](https://www.kgretchengreene.com/) (need arxiv link)
 
 ![Image](./FishC.png) (string(s) of small images)
+
+### EqualAIs
+[EqualAIs](http://equalais.media.mit.edu/) Facial recognition adversarial attack
+
+### AI Strategy, Policy and Risk
+Advising government agencies and industry internationally on AI and AV strategy, policy and risk.  
+
+BC AI Governance Joint Convening. Initiated and facilitated cross agency collaboration on developing AI best practices across British Columbia, Canada
+
+[Potholes, Rats and Criminals: A Framework for AI Ethical Risk](https://datasmart.ash.harvard.edu/news/article/potholes-rats-and-criminals), Harvard Kennedy School Ash Center for Democratic Governance and Innovation
+
+"AV Scenario Issue Spotting Workshop", primary author and researcher; ran workshop at AG Tech Forum on AI, national convening of state attorneys general at Harvard Law School/Berkman Klein Center for Internet and Society
+
+"When Algorithms are Against the Law: Lessons from Case Law and the Constitution for City CDOs", presentation to Civics Analytics Network's (CAN's), national convening of city CDOs at Harvard's Kennedy School
+
+AI and Governance Affiliate Researcher, MIT Media Lab and Harvard Berkman Klein Center
+
 
 How do I do this? 
 # Header1? 
