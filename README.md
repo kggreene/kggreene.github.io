@@ -3,7 +3,7 @@
 
 
 ### AI Strategy, Policy and Risk
-Advising government agencies and industry internationally on AI and AV strategy, policy and risk. AI and Governance Affiliate Researcher, MIT Media Lab and Harvard Berkman Klein Center.  
+Advising companies, universities and government agencies internationally on AI and AV strategy, policy and risk. AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.edu/people/ggreene/overview/) and [Harvard Berkman Klein Center](https://cyber.harvard.edu/people/gretchen-greene).  
 
 - BC AI Governance Joint Convening. Initiated and facilitated cross agency collaboration on developing AI best practices across British Columbia, Canada
 
@@ -12,6 +12,12 @@ Advising government agencies and industry internationally on AI and AV strategy,
 - "AV Scenario Issue Spotting Workshop", primary author and researcher; ran workshop at AG Tech Forum on AI, national convening of state attorneys general at Harvard Law School, 2018
 
 - "When Algorithms are Against the Law: Lessons from Case Law and the Constitution for City CDOs", presentation to Civics Analytics Network's (CAN's), national convening of large city CDOs, Harvard Kennedy School, 2018 
+
+- Founding member of [Techtopia](http://techtopia.harvard.edu/), Harvard initiative on ethics and governance of emerging digital technologies
+
+- BKC, MIT, and Princeton Workshop on AI and Ethics in Industry, 2018
+
+
 
 ### Dragon Paint
 Expressive augmentation and GANs for generating style consistent cartoons characters and group variation from extremely small original data sets.
