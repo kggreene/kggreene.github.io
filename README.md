@@ -45,7 +45,7 @@ Expressive augmentation and GANs for generating style consistent cartoons charac
 
 - [DragonPaint: Rule Based Bootstrapping for Small Data with an Application to Cartoon Coloring. In Proceedings of the Fourth International Conference on Predictive Applications and APIs, volume 82, pages 1-9, Boston, MA, 2017](https://www.papis.io/proceedings)
 
-- "An Infinite Parade of Giraffes: Expressive Augmentation and Complexity Layers for Cartoon Drawing" (under review), PAPIs 2018
+- "An Infinite Parade of Giraffes: Expressive Augmentation and Complexity Layers for Cartoon Drawing", PAPIs 2018
 
 - "GANs and Gaussian Filters for Design Propagation and Variation Across Groups of Cartoon Characters from a Single Example" (under review)
 
