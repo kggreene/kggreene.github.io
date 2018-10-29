@@ -18,7 +18,7 @@ AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.ed
 
 - BKC, MIT, and Princeton Workshop on AI and Ethics in Industry, 2018
 
-### Machine learning, computer vision,artificial intelligence and autonomous vehicles
+### Machine learning, computer vision, artificial intelligence and autonomous vehicles
 #### Dragon Paint: GANs, art and extreme data augmentation
 An ongoing project exploring the limits of data augmentation and art generation, using expressive augmentation and GANs for generating style consistent cartoons characters and group variation from extremely small original data sets.
 
