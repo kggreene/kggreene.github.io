@@ -20,8 +20,8 @@ Advising government agencies and industry internationally on AI and AV strategy,
 
 - "When Algorithms are Against the Law: Lessons from Case Law and the Constitution for City CDOs", presentation to Civics Analytics Network's (CAN's), national convening of large city CDOs, Harvard Kennedy School, 2018 
 
-### Adversarial Attacks and Facial Recognition
-MIT Media Lab/Harvard Berkman Center AI and Governance Assembly project, [EqualAIs](http://equalais.media.mit.edu/). The team developed a white box substitution model facial recognition adversarial attack prototype, successful against the major APIs, filed a FOIA with partners ACLU and a private law firm, presented at numerous conferences and published a collection of open source code and resources on facial recognition and adversarial attacks.
+### Facial Recognition Adversarial Attacks
+MIT Media Lab/Harvard Berkman Center AI and Governance Assembly project, [EqualAIs](http://equalais.media.mit.edu/). The team developed a white box, substitution model facial recognition adversarial attack prototype, successful against the major APIs, filed a FOIA with partners ACLU and a private law firm, presented at numerous conferences and published a collection of open source code and resources on facial recognition and adversarial attacks.
 
 - "EqualAIs: Facial Recognition Adversarial Attacks and Policy", Google Brain, Cambridge, MA, 2018
 
