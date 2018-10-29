@@ -1,7 +1,7 @@
 ## Greene Strategy and Analytics
 
 ## Dragon Paint
-Expressive augmentation and GANs for generating style consistent cartoons characters from a single original drawing.
+Expressive augmentation and GANs for generating style consistent cartoons characters and group variation from extremely small original data sets.
 
 ![DragonPaint: rule based bootstrapping for small data with an application to cartoon coloring](https://www.papis.io/proceedings)
 
