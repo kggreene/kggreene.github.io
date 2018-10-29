@@ -9,6 +9,8 @@ Expressive augmentation and GANs for generating style consistent cartoons charac
 
 [GANs and Gaussian Filters for Design Propagation and Variation Across Groups of Cartoon Characters from a Single Example](https://www.kgretchengreene.com/) (need arxiv link)
 
+[Awesome art!](https://www.kgretchengreene.com/)
+
 ![Image](./FishC.png) (string(s) of small images)
 
 How do I do this? 
