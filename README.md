@@ -1,7 +1,5 @@
-### Greene Strategy and Analytics
 ## AI, computer vision and machine learning. 
 ## Technical, policy and strategy solutions.
-
 
 ### Government AI and AV strategy, policy and risk
 AI and governance work with MIT Media Lab, Harvard Berkman Klein Center, Harvard Law School, Harvard Kennedy School and private government clients including developing best practices for AI and ethics in government, universities and industry and advising local and regional governments internationally on AI and AV strategy, risk and policy. 
