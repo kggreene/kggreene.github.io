@@ -18,6 +18,23 @@ Advising companies, universities and government agencies internationally on AI a
 - BKC, MIT, and Princeton Workshop on AI and Ethics in Industry, 2018
 
 
+### Facial Recognition Adversarial Attacks
+MIT Media Lab/Harvard Berkman Center AI and Governance Assembly project, [EqualAIs](http://equalais.media.mit.edu/). The team developed a white box, substitution model facial recognition adversarial attack prototype, successful against the major APIs, filed a FOIA with partners ACLU and a private law firm, presented at numerous conferences and published a collection of open source code and resources on facial recognition and adversarial attacks.
+
+- "EqualAIs: Facial Recognition Adversarial Attacks and Policy", Google Brain, Cambridge, MA, 2018
+
+- "Facial Recognition: Adversarial Attacks, Policy and Choice", PAPIs Global, Boston, MA, 2018"
+
+- "How Machine Vision Fails: Adversarial Attacks, AV Accidents and Other Problems", REWORK Deep Learning for Robotics and AI in Industrial Automation Summits", SF, CA, 2018
+
+### Computer Vision, AI, ML and AV Projects for Cambridge Startups
+- AV decision making AI 
+
+- Machine learning for drug delivery system 
+
+- Computer vision for QR codes in wearables 
+
+- Testing and documenting software for computer vision tools
 
 ### Dragon Paint
 Expressive augmentation and GANs for generating style consistent cartoons characters and group variation from extremely small original data sets.
@@ -30,24 +47,9 @@ Expressive augmentation and GANs for generating style consistent cartoons charac
 
 ![Image](./FishC.png) (string(s) of small images)
 
-### Computer Vision, AI, ML and AV Projects for Cambridge Startups
-- AV decision making AI 
-
-- Machine learning for drug delivery system 
-
-- Computer vision for QR codes in wearables 
-
-- Testing and documenting software for computer vision tools
 
 
-### Facial Recognition Adversarial Attacks
-MIT Media Lab/Harvard Berkman Center AI and Governance Assembly project, [EqualAIs](http://equalais.media.mit.edu/). The team developed a white box, substitution model facial recognition adversarial attack prototype, successful against the major APIs, filed a FOIA with partners ACLU and a private law firm, presented at numerous conferences and published a collection of open source code and resources on facial recognition and adversarial attacks.
 
-- "EqualAIs: Facial Recognition Adversarial Attacks and Policy", Google Brain, Cambridge, MA, 2018
-
-- "Facial Recognition: Adversarial Attacks, Policy and Choice", PAPIs Global, Boston, MA, 2018"
-
-- "How Machine Vision Fails: Adversarial Attacks, AV Accidents and Other Problems", REWORK Deep Learning for Robotics and AI in Industrial Automation Summits", SF, CA, 2018
 
 ### Bio
 Gretchen Greene, founder of Greene Strategy and Analytics and affiliate AI policy researcher at MIT Media Lab and Harvard Berkman Klein Center for Internet and Society, leverages an extremely broad multi-industry, multi-discipline background to find AI, ML and computer vision strategy, policy and technical solutions for clients ranging from Cambridge tech startups to international government agencies. Greene's work on AI and governance with MIT Media Lab, Harvard Berkman Klein Center, Harvard Law School, Harvard Kennedy School and private government clients has included developing best practices for AI and ethics in government, universities and industry and advising local and regional governments internationally on AI and AV strategy, risk and policy. Greene is a computer vision scientist, lawyer, and autonomous car engineer with CPhil and MS degrees in math from UCLA, a JD from Yale, peer reviewed publications in machine learning, science and policy journals and a license to practice law in California and Massachusetts. Greene has been interviewed by the Economist, Forbes China, and the BBC.
