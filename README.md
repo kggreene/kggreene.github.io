@@ -3,11 +3,11 @@
 ## Dragon Paint
 Expressive augmentation and GANs for generating style consistent cartoons characters and group variation from extremely small original data sets.
 
-![DragonPaint: rule based bootstrapping for small data with an application to cartoon coloring](https://www.papis.io/proceedings)
+[DragonPaint: Rule Based Bootstrapping for Small Data with an Application to Cartoon Coloring](https://www.papis.io/proceedings)
 
-An infinite parade of giraffes (need arxiv link)
+[An Infinite Parade of Giraffes: Expressive Augmentation and Complexity Layers for Cartoon Drawing](https://www.kgretchengreene.com/) (need arxiv link)
 
-Schools of fish (arxiv link?)
+[GANs and Gaussian Filters for Design Propagation and Variation Across Groups of Cartoon Characters from a Single Example](https://www.kgretchengreene.com/) (need arxiv link)
 
 ![Image](./FishC.png) (string(s) of small images)
 
