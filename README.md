@@ -2,7 +2,7 @@
 # AI, computer vision and machine learning. Technical, policy and strategy solutions.
 
 
-### AI and AV strategy, policy and risk
+### Government AI and AV strategy, policy and risk
 AI and governance work with MIT Media Lab, Harvard Berkman Klein Center, Harvard Law School, Harvard Kennedy School and private government clients including developing best practices for AI and ethics in government, universities and industry and advising local and regional governments internationally on AI and AV strategy, risk and policy. 
 
 AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.edu/people/ggreene/overview/) and [Harvard Berkman Klein Center](https://cyber.harvard.edu/people/gretchen-greene).  
@@ -19,8 +19,7 @@ AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.ed
 
 - BKC, MIT, and Princeton Workshop on AI and Ethics in Industry, 2018
 
-### Dragon Paint
-#### GANs, art and extreme data augmentation
+### Dragon Paint: GANs, art and extreme data augmentation
 An ongoing project exploring the limits of data augmentation and art generation, using expressive augmentation and GANs for generating style consistent cartoons characters and group variation from extremely small original data sets.
 
 - [DragonPaint: Rule based bootstrapping for small data with an application to cartoon coloring. In Proceedings of the Fourth International Conference on Predictive Applications and APIs, volume 82, pages 1-9, Boston, MA, 2017](https://www.papis.io/proceedings)
@@ -29,7 +28,7 @@ An ongoing project exploring the limits of data augmentation and art generation,
 
 - "GANs and Gaussian Filters for Design Propagation and Variation Across Groups of Cartoon Characters from a Single Example" (under review)
 
-### Facial recognition adversarial attacks
+### EqualAIs: Facial recognition adversarial attacks
 MIT Media Lab/Harvard Berkman Center AI and Governance Assembly project, [EqualAIs](http://equalais.media.mit.edu/). Our team developed a white box, substitution model facial recognition adversarial attack prototype, successful against the major APIs, filed a FOIA with partners ACLU and a private law firm, presented at numerous conferences and published a collection of open source code and resources on facial recognition and adversarial attacks.
 
 - "EqualAIs: Facial recognition adversarial attacks and policy", Google Brain, Cambridge, MA, 2018
