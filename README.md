@@ -1,15 +1,15 @@
 ## Greene Strategy and Analytics
 
 ## Dragon Paint
-Extreme augmentation and GANs for generating style consistent cartoons characters from a single original drawing.
+Expressive augmentation and GANs for generating style consistent cartoons characters from a single original drawing.
 
 ![DragonPaint: rule based bootstrapping for small data with an application to cartoon coloring](https://www.papis.io/proceedings)
 
-An infinite parade of giraffes
+An infinite parade of giraffes (need arxiv link)
 
-Schools of fish
+Schools of fish (arxiv link?)
 
-![Image](./FishC.png)
+![Image](./FishC.png) (string(s) of small images)
 
 How do I do this? 
 # Header1? 
