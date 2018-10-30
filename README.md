@@ -7,7 +7,7 @@ AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.ed
 
 - [Potholes, Rats and Criminals: A Framework for AI Ethical Risk](https://datasmart.ash.harvard.edu/news/article/potholes-rats-and-criminals), Data-Smart City Solutions (read in ~8,000 cities each month), Harvard Kennedy School
 
-- "AV scenario issue spotting workshop", primary author and researcher; ran workshop at AG Tech Forum on AI, national convening of state attorneys general at Harvard Law School, 2018
+- "AV scenario issue spotting workshop", codesigned and facilitated workshops at AG Tech Forum on AI, national convening of state attorneys general at Harvard Law School, 2018
 
 - "When algorithms are against the law: lessons from case law and the Constitution for city CDOs", presentation to Civics Analytics Network's (CAN's), national convening of large city CDOs, Harvard Kennedy School, 2018 
 
