@@ -13,7 +13,7 @@ AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.ed
 
 - "When algorithms are against the law: lessons from case law and the Constitution for city CDOs", presentation to Civics Analytics Network's (CAN's), national convening of large city CDOs, Harvard Kennedy School, 2018 
 
-- Designed membership surveys on AI for the U.S. National League of Cities (NLC) and National Association of Counties (NACo)
+- Designed membership AI surveys for the National League of Cities (NLC) and National Association of Counties (NACo)
 
 - Founding member of [Techtopia](http://techtopia.harvard.edu/), Harvard initiative on ethics and governance of emerging digital technologies
 
