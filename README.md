@@ -7,15 +7,18 @@ AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.ed
 
 - [Potholes, Rats and Criminals: A Framework for AI Ethical Risk](https://datasmart.ash.harvard.edu/news/article/potholes-rats-and-criminals), Data-Smart City Solutions (read in ~8,000 cities each month), Harvard Kennedy School
 
-- Advised board, executive officers and technical and legal staff on AI strategy, policy and risk at Technical Safety BC
+- Advised Technical Safety BC directors, executive officers and technical and legal staff on AI strategy, policy and risk
 
 - "AV scenario issue spotting workshop" and "AI for government benefits issue spotting workshop", codesigned and facilitated workshops at AG Tech Forum on AI, national convening of state attorneys general at Harvard Law School, 2018
 
 - "When algorithms are against the law: lessons from case law and the Constitution for city CDOs", presentation to Civics Analytics Network's (CAN's), national convening of large city CDOs, Harvard Kennedy School, 2018 
 
+- Designed membership surveys on AI for the U.S. National League of Cities (NLC) and National Association of Counties (NACo)
+
 - Founding member of [Techtopia](http://techtopia.harvard.edu/), Harvard initiative on ethics and governance of emerging digital technologies
 
 - BKC, MIT, and Princeton Workshop on AI and Ethics in Industry, 2018
+
 
 ## Machine learning, computer vision, artificial intelligence and autonomous vehicles
 ### Dragon Paint: GANs, art and extreme data augmentation
