@@ -3,7 +3,7 @@ AI and governance work with MIT Media Lab, Harvard Berkman Klein Center, Harvard
 
 AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.edu/people/ggreene/overview/) and [Harvard Berkman Klein Center](https://cyber.harvard.edu/people/gretchen-greene).  
 
-- BC AI Governance Joint Convening. Initiated and facilitated cross agency collaboration on developing AI best practices across British Columbia, Canada
+- BC AI Governance Joint Convening. Facilitating cross agency collaboration on developing AI best practices across British Columbia, Canada
 
 - [Potholes, Rats and Criminals: A Framework for AI Ethical Risk](https://datasmart.ash.harvard.edu/news/article/potholes-rats-and-criminals), Data-Smart City Solutions (read in ~8,000 cities each month), Harvard Kennedy School
 
@@ -11,7 +11,7 @@ AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.ed
 
 - "AV scenario issue spotting workshop" and "AI for government benefits issue spotting workshop", codesigned and facilitated workshops at AG Tech Forum on AI, national convening of state attorneys general at Harvard Law School, 2018
 
-- "When algorithms are against the law: lessons from case law and the Constitution for city CDOs", presentation to Civics Analytics Network's (CAN's), national convening of large city CDOs, Harvard Kennedy School, 2018 
+- "When algorithms are against the law: lessons from case law and the Constitution for city CDOs", presentation to Civics Analytics Network's (CAN's), U.S. national convening of large city CDOs, Harvard Kennedy School, 2018 
 
 - Designed membership surveys on AI for the U.S. National League of Cities (NLC) and National Association of Counties (NACo)
 
