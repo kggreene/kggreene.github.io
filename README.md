@@ -29,7 +29,7 @@ An ongoing project exploring the limits of data augmentation and art generation,
 
 - "An Infinite Parade of Giraffes: Expressive Augmentation and Complexity Layers for Cartoon Drawing", PAPIs Europe 2018 
 
-- "GANs and Gaussian Filters for Design Propagation and Variation Across Groups of Cartoon Characters from a Single Example" (under review)
+- "GANs and Gaussian Filters for Design Propagation and Variation Across Groups of Cartoon Characters from a Single Example"
 
 ### EqualAIs: Facial recognition adversarial attacks
 MIT Media Lab/Harvard Berkman Center AI and Governance Assembly project, [EqualAIs](http://equalais.media.mit.edu/). Our team developed a white box, substitution model facial recognition adversarial attack prototype, successful against the major APIs, filed a FOIA with partners ACLU and a private law firm, presented at numerous conferences and published a collection of open source code and resources on facial recognition and adversarial attacks.
