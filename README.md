@@ -17,7 +17,7 @@ AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.ed
 
 - Founding member of [Techtopia](http://techtopia.harvard.edu/), Harvard initiative on ethics and governance of emerging digital technologies
 
-- Harvard, MIT, and Princeton Workshop on AI and Ethics in Industry, 2018
+- Advised companies and helped develop case studies at Harvard, MIT, and Princeton Workshop on AI and Ethics in Industry, 2018
 
 
 ## Machine learning, computer vision, artificial intelligence and autonomous vehicles
