@@ -15,7 +15,7 @@ AI strategy, policy and risk advisor/consultant
 
 - "When algorithms are against the law: lessons from case law and the Constitution for city CDOs", presentation to Civics Analytics Network's (CAN's), U.S. national convening of large city CDOs, Harvard Kennedy School, 2018 
 
-- Advised companies and helped develop case studies at Harvard, MIT, and Princeton Workshop on AI and Ethics in Industry, 2018
+- Advised multinational corporations and early stage startups at Harvard, MIT, and Princeton Workshop on AI and Ethics in Industry, 2018
 
 - Designed membership surveys on AI for the U.S. National League of Cities (NLC) and National Association of Counties (NACo)
 
