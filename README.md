@@ -17,7 +17,7 @@ AI strategy, policy and risk advisor/consultant
 
 - Advised multinational corporations and early stage startups at BKC, MIT, and Princeton Workshop on AI and Ethics, 2018
 
-- Designed membership surveys on AI for the U.S. National League of Cities (NLC) and National Association of Counties (NACo)
+- Designed membership surveys on AI for the National League of Cities (NLC) and National Association of Counties (NACo)
 
 - Founding member of [Techtopia](http://techtopia.harvard.edu/), Harvard initiative on ethics and governance of emerging digital technologies
 
