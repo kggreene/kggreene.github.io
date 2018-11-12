@@ -5,9 +5,9 @@ AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.ed
 
 - BC AI Governance Joint Convening. Facilitating cross agency collaboration on developing AI best practices across British Columbia, Canada
 
-- [Potholes, Rats and Criminals: A Framework for AI Ethical Risk](https://datasmart.ash.harvard.edu/news/article/potholes-rats-and-criminals), Data-Smart City Solutions (read in ~8,000 cities each month), Harvard Kennedy School
+- ["Potholes, Rats and Criminals: A Framework for AI Ethical Risk"](https://datasmart.ash.harvard.edu/news/article/potholes-rats-and-criminals), Data-Smart City Solutions (read in ~8,000 cities each month), Harvard Kennedy School
 
-- [Buying your First AI: or Never Trust a Used Algorithm Salesman](https://medium.com/berkman-klein-center/buying-your-first-ai-136cd2e6dd2), Harvard Berkman Klein Center
+- ["Buying your First AI: or Never Trust a Used Algorithm Salesman"](https://medium.com/berkman-klein-center/buying-your-first-ai-136cd2e6dd2), Harvard Berkman Klein Center
 
 - "AV scenario issue spotting workshop" and "AI for government benefits issue spotting workshop", codesigned and facilitated workshops at AG Tech Forum on AI, national convening of state attorneys general at Harvard Law School, 2018
 
