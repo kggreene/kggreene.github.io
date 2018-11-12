@@ -3,7 +3,7 @@ AI and governance work with MIT Media Lab, Harvard Berkman Klein Center, Harvard
 
 AI and governance affiliate researcher, [MIT Media Lab](https://www.media.mit.edu/people/ggreene/overview/) and [Harvard Berkman Klein Center](https://cyber.harvard.edu/people/gretchen-greene)
 
-AI and AV strategy, policy and risk advisor 
+AI strategy, policy and risk advisor/consultant
 
 - BC AI Governance Joint Convening. Facilitating cross agency collaboration and developing AI best practices across British Columbia, Canada
 
