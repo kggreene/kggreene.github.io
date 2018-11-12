@@ -3,7 +3,7 @@ AI and governance work with MIT Media Lab, Harvard Berkman Klein Center, Harvard
 
 AI and Governance Affiliate Researcher, [MIT Media Lab](https://www.media.mit.edu/people/ggreene/overview/) and [Harvard Berkman Klein Center](https://cyber.harvard.edu/people/gretchen-greene).  
 
-- BC AI Governance Joint Convening. Facilitating cross agency collaboration on developing AI best practices across British Columbia, Canada
+- BC AI Governance Joint Convening. Facilitating cross agency collaboration and developing AI best practices across British Columbia, Canada
 
 - ["Potholes, Rats and Criminals: A Framework for AI Ethical Risk"](https://datasmart.ash.harvard.edu/news/article/potholes-rats-and-criminals), Data-Smart City Solutions (read in ~8,000 cities each month), Harvard Kennedy School
 
