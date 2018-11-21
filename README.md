@@ -27,7 +27,7 @@ An ongoing project exploring the limits of data augmentation and art generation,
 
 - [DragonPaint: Rule based bootstrapping for small data with an application to cartoon coloring. In Proceedings of the Fourth International Conference on Predictive Applications and APIs, volume 82, pages 1-9, Boston, MA, 2017](https://www.papis.io/proceedings)
 
-- "An Infinite Parade of Giraffes: Expressive Augmentation and Complexity Layers for Cartoon Drawing", PAPIs Europe 2018 
+- [An Infinite Parade of Giraffes: Expressive Augmentation and Complexity Layers for Cartoon Drawing](https://arxiv.org/pdf/1811.07023.pdf), PAPIs Europe 2018, arVix 1811.07023 
 
 - "GANs and Gaussian Filters for Design Propagation and Variation Across Groups of Cartoon Characters from a Single Example"
 
